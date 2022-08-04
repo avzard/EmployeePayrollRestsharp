@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbvMkheAh7ctMy9R7/yMVQ9SGgK8W2Bx6T3ByAPXTcGlhBseDN/jRYvcHhHwfm5Ja3USbbnkn8lRU1TPJfDc9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\OneDrive\\Desktop\\EmployeePayrollRestSharp\\EmployeePayrollRestsharp\\EmployeePayrollRestSharp\\EmployeePayrollRestSharp\\EmployeePayrollRestSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
